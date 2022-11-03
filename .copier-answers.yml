@@ -1,0 +1,7 @@
+# Changes here will be overwritten by Copier
+_commit: v0.1
+_src_path: git@gitlab.pi.planetinnovation.com.au:degraves/template/micropython_library_template.git
+gitlab_tag: aws-525-degraves
+library_description: A MicroPython driver for the MCP3462 ADC
+library_name: micropython_mcp3462_adc
+single_file_module: true
