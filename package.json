@@ -1,0 +1,6 @@
+{
+    "urls": [
+        ["micropython_mcp3462_adc.py", "github:planetinnovation/micropython-mcp3462/micropython_mcp3462_adc.py"]
+    ],
+    "version": "1.0.0"
+}
